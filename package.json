@@ -20,7 +20,7 @@
     "chai-as-promised": "^8.0.0",
     "chai-bignumber": "^3.0.0",
     "chai-stats": "^0.3.0",
-    "dotenv-flow": "^3.1.0",
+    "dotenv-flow": "^4.0.0",
     "ethereumjs-tx": "^2.1.1",
     "lodash": "^4.17.15",
     "openzeppelin-solidity": "^2.4.0",
