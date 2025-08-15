@@ -23,7 +23,7 @@
     "dotenv-flow": "^4.0.0",
     "ethereumjs-tx": "^2.1.1",
     "lodash": "^4.17.15",
-    "openzeppelin-solidity": "^2.4.0",
+    "openzeppelin-solidity": "^3.0.0",
     "table": "^5.4.6"
   }
 }
